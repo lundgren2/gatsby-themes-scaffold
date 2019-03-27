@@ -1,0 +1,14 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.3.2",
+    "gatsby-theme": "*"
+  },
+  "devDependencies": {
+    "gatsby": "^2.3.2",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  }
+}

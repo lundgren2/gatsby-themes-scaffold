@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "gatsby-themes-scaffold",
+  "version": "1.0.0",
+  "scripts": {
+    "clean": "yarn workspaces run clean",
+    "start": "yarn workspace site gatsby develop",
+    "build": "yarn workspace site gatsby build"
+  },
+  "license": "MIT",
+  "workspaces": ["site", "packages/*"]
+}
